@@ -79,6 +79,11 @@ body {
     margin-top: 20px;
 }
 
+.subtitulo{
+    color:#fe652b;
+    font-size: 20px;
+}
+
 .input-name {
     width: 100%;
     padding: 10px;
